@@ -1,5 +1,3 @@
-table File  19 lines (17 sloc)  631 Bytes
-
 #!/usr/bin/python3
 # Author - Tolulope Fakunle
 """Print the numbers from 1 to 100 separated by a space.
